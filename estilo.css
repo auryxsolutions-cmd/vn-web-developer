@@ -4,7 +4,7 @@
    padding: 0;
    box-sizing: border-box;
    text-decoration: none;
-   transition: all 0.3s linear;
+   transition: all 0.2s linear;
 }
 
 /* BODY */
@@ -67,7 +67,7 @@ section {
 }
 
 .home-content h1 {
-   font-size: 0.5rem;
+   font-size: 1.5rem;
    margin-bottom: 1rem;
 }
 
